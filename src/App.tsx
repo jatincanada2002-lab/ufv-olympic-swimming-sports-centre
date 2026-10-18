@@ -426,7 +426,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Section 1: The Opportunity / Vision */}
+      {/* Section 1: The Opportunity */}
       <section id="vision" className="py-20 lg:py-28 bg-[#f3f8f5] border-b border-[#dce7df]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
@@ -467,10 +467,10 @@ export default function App() {
 
             {/* Right: The Core Strategic Case */}
             <div className="lg:col-span-7 order-1 lg:order-2 space-y-6">
-              <div className="text-xs font-bold uppercase tracking-widest text-[#006b4f] flex items-center gap-2">
-                <span className="w-6 h-0.5 bg-[#006b4f]" />
-                <span>The Opportunity</span>
-              </div>
+               <div className="text-sm font-bold uppercase tracking-widest text-[#006b4f] flex items-center gap-2">
+  <span className="w-6 h-0.5 bg-[#006b4f]" />
+  <span>The Opportunity</span>
+</div>
 
               <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-[#15231e] leading-tight">
                 More than a pool.<br />
