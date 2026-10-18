@@ -22,7 +22,7 @@ import {
 } from 'lucide-react';
 
 import heroAquaticCentre from './assets/images/hero_aquatic_centre_1792294160407.jpg';
-import ufvCampusAerial from './assets/images/ufv_campus_aerial_1792294161488.jpg';
+import ufvCampusAerial from './assets/images/Winter Evening at Fraser Valley University.png';
 import drylandTrainingCentre from './assets/images/dryland_training_centre_1792294162271.jpg';
 import communitySwimPrograms from './assets/images/community_swim_programs_1792294162889.jpg';
 
