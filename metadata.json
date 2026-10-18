@@ -1,0 +1,6 @@
+{
+  "name": "UFV Olympic Swimming & Sports Centre",
+  "description": "Comprehensive digital proposal and interactive feasibility portal for the proposed $100M Olympic Swimming & Sports Centre at the University of the Fraser Valley.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-ufv-green: #006b4f;
+    --color-ufv-dark: #004633;
+    --color-ufv-light: #0d8b68;
+    --color-ufv-lime: #d7e8a7;
+    --color-ufv-gold: #e5b95f;
+    --color-ufv-ink: #15231e;
+    --color-ufv-muted: #5b6c64;
+    --color-ufv-soft: #f3f8f5;
+    --color-ufv-line: #dce7df;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #15231e;
+    background-color: #ffffff;
+  }
+}
+
+/* Custom smooth transitions */
+.transition-smooth {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
